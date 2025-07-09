@@ -1,0 +1,22 @@
+Trendline Type,Equation,R-squared
+Linear,y = 0.00x + 1.89,0.7545503326711853
+Exponential,y = -0.00 * exp(0.10x),-4.2796503175552437e+235
+Logarithmic,y = 0.56 * ln(x) + -0.74,0.5780928305193718
+Polynomial Order 2,y = 0.00x^2 + 0.00x^1 + 2.07,0.7906134877895364
+Polynomial Order 3,y = 0.00x^3 + -0.00x^2 + 0.00x^1 + 1.94,0.8010967073500612
+Polynomial Order 4,y = 0.00x^4 + -0.00x^3 + 0.00x^2 + 0.00x^1 + 1.98,0.8015086717633755
+Polynomial Order 5,y = 0.00x^5 + -0.00x^4 + 0.00x^3 + -0.00x^2 + 0.00x^1 + 1.63,0.8162581586242955
+Polynomial Order 6,y = 0.00x^6 + -0.00x^5 + 0.00x^4 + 0.00x^3 + -0.00x^2 + 0.00x^1 + 1.76,0.8174510309760818
+Power,y = 0.62 * x^0.23,0.627755549146372
+Moving Average,Window Size: 3,-0.919296312305691
+Inverse,y = 263.04 / x,-6.709795545377795
+Inverse Square,y = 16249.67 / x^2,-8.315451823880922
+Sine,y = 1.41 * sin(1.00x + -1.28),-8.524111966118266
+Cosine,y = -1.41 * cos(1.00x + 0.29),-8.52411192122672
+Tangent,y = -0.07 * tan(1.00x + -0.13),-9.109203800546213
+Sigmoid,y = 2.13 / (1 + exp(--66.03 * (x - 460.66))),-7.053189858716651
+Gaussian,N/A (Fit failed),
+Hyperbolic Sine,y = 0.00 * sinh(0.10x),-1.4304800630638074e+235
+Hyperbolic Cosine,y = 0.00 * cosh(0.10x),-1.4304800630638074e+235
+Piecewise (Conceptual),N/A (Complex/Manual Fit),
+Damped Oscillation,y = 0.42 * exp(--0.00x) * sin(1.04x + 4.37),-8.7101570858687
